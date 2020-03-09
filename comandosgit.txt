@@ -12,3 +12,7 @@ git rm --cached (remover algum arquivo)
 
 git commit -m"comentario" (da uma versao do arquivo)
 
+git remote (configura o servidor pra poder fazer push por ex)
+
+git rmeote -v  (pra ver detalhadamente oq tem)
+
