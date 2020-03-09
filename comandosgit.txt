@@ -8,5 +8,7 @@ merge: junção de branchs
 
 git add nome ou * (agora o arquivo é trackeado pelo git (o * é pra add todos os arquivos))
 
-git rm (remover algum arquivo)
+git rm --cached (remover algum arquivo)
+
+git commit -m"comentario" (da uma versao do arquivo)
 
