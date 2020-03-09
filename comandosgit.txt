@@ -1,0 +1,12 @@
+git init (a pasta em q vc está vira um repositorio git)
+
+git status (verificar se tem arquivo pra comitar/alterar, retorna o status atual do repositorio)
+
+branch: pacotes (a master é a main)
+
+merge: junção de branchs
+
+git add nome ou * (agora o arquivo é trackeado pelo git (o * é pra add todos os arquivos))
+
+git rm (remover algum arquivo)
+
